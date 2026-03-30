@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Dummy Website</title>
+</head>
+<body>
+  <h1>Welcome to my website</h1>
+  <p>This is my first dummy site</p>
+</body>
+</html>
+ <p>Best coaching for board exams.</p>
+
+  <div class="box">
+    <h3>Courses</h3>
+    <p>Class 10th, 12th (Science)</p>
+  </div>
+
+  <div class="box">
+    <h3>Contact</h3>
+    <p>Phone: 9876543210</p>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Udbhav Academy</p>
+</footer>
+
+</body>
+</html>
+<h3>Admission Form</h3>
+    <form>
+      <input type="text" placeholder="Your Name" required>
+      <input type="text" placeholder="Phone Number" required>
+      <textarea placeholder="Message"></textarea>
+      <button type="submit">Submit</button>
+    </form>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Udbhav Academy</p>
+</footer>
+
+<!-- WhatsApp Button -->
+<a class="whatsapp" href="https://wa.me/919876543210">W</a>
+
+</body>
+</html>
+What is this?
+🔍 Output कैसा दिखेगा:
+5
+⚠️ Important समझो
+
+👉 अभी आपका form data save नहीं करेगा
+(ये सिर्फ दिखाने के लिए है)
+
+अगर आप चाहते हो:
+
+student data save हो
+WhatsApp पर message आए
+👉 तो next step करना पड़ेगा
+🚀 Step 4: Website को LIVE करना
+🟢 Free तरीका:
+GitHub Pages
+
+👉 Steps:
+
+GitHub account बनाओ
+code upload करो
+site live हो जाएगी
+🔥 Next Level (बहुत important)
+
+अगर आप serious हो coaching के लिए:
+
+👉 मैं आपको बना सकता हूँ:
+
+Auto WhatsApp form
+Student data Google Sheet में save
+Professional design
+💬 अब बताओ:
+
+आप क्या करना चाहते हो next?
+
+1️⃣ 
+Website live करना
+2️⃣ 
+Form को working बनाना (data save)
+3️⃣ 
+Full professional coaching website बनाना
+
